@@ -14,6 +14,9 @@
 <h2 align="center" style="color:#00FFAA;"> Latest Update is Available on the <a href="https://github.com/jakka351/ZF-6HP26/releases" style="color:#FFD700;">Releases Page</a></h2>
 <h3 align="center" style="color:#00FFAA;"> How to Guides are located in the Repo <a href="https://github.com/jakka351/ZF-6HP26?search=1">code section</a></h3>
 
+<p align="center">
+ If you wish to purchase the 6HP26 Toolkit, get in contact with Jack at Tester Present Specialist Automotive Solutions
+</p>
 
 
 <br />
