@@ -15,7 +15,7 @@
 <h3 align="center" style="color:#00FFAA;"> How to Guides are located in the Repo <a href="https://github.com/jakka351/ZF-6HP26?search=1">code section</a></h3>
 
 <p align="center">
- If you wish to purchase the 6HP26 Toolkit, get in contact with Jack at Tester Present Specialist Automotive Solutions
+ If you wish to purchase the 6HP26 Toolkit, get in contact with Jack at Tester Present Specialist Automotive Solutions, people who have purchased the software have access to the private repository with software updates, how-to guides and technical support.
 </p>
 
 
